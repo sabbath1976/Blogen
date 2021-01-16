@@ -1,0 +1,9 @@
+.modal__button {
+  color: #fff;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.modal__button:hover {
+  color: #efefef;
+}

@@ -1,0 +1,10 @@
+.modal {
+    &__button {
+        color: #fff;
+        transition: all 0.2s;
+
+        &:hover {
+            color: #efefef;
+        }
+    }
+}
